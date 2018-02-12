@@ -29,7 +29,7 @@ Format à respecter:
 | 20/02/2018    | Claude           | Coder Pareto?      |
 | 21/02/2018    | ----------       | Inconnu            |
 | 22/02/2018    | ----------       | Inconnu            |
-| 23/02/2018    | ----------       | Inconnu            |
+| 23/02/2018    | Sébastien        | Inconnu            |
 | 24/02/2018    | ----------       | Inconnu            |
 | 25/02/2018    | ----------       | Inconnu            |
 | 26/02/2018    | ----------       | Inconnu            |
