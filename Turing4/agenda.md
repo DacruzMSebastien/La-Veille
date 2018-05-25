@@ -126,7 +126,7 @@ Format à respecter:
 | Ma 22/05 | Jérôme|le Shadow PC |
 | Me 23/05 | Sarah| Le cahier de charges|
 | Je 24/05 | | |
-| Ve 25/05 | Sébastien| XXX |
+| Ve 25/05 | Sébastien| Google Home |
 | Lu 28/05 |Geoffrey| |
 | Ma 29/05 |Kévin | |
 | Me 30/05 | Steve | Processing |
@@ -194,5 +194,5 @@ Format à respecter:
 |Hennaux	Philippe | 2|
 |Grotard	Romain   | 3|
 |Klewiec	Sarah    | 3|
-|Da Cruz-Matias	Sébatsien | 1|
+|Da Cruz-Matias	Sébastien | 3|
 |Van Essche	Steve | 3|
